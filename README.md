@@ -171,7 +171,7 @@ Congratulations! You’ve taken your first steps toward mastering user and group
 ---
 
 ### 📜 What’s Next?
-Now that you’ve mastered the manual process, it’s time to take your skills to the next level! In Project 2, we’ll explore how to **automate user and group management using Bash scripts**. Imagine creating, updating, and deleting hundreds of users in minutes—sounds exciting, right?
+Now that you’ve mastered the manual process, it’s time to take your skills to the next level! In my next project, we’ll explore how to **automate user and group management using Bash scripts**. Imagine creating, updating, and deleting hundreds of users in minutes—sounds exciting, right?
 
 ---
 
