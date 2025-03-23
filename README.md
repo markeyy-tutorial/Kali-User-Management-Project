@@ -11,11 +11,11 @@ Learn how to create, update, and delete users and groups for Linux distribution!
 ---
 
 ## 📋 Table of Contents
-1. [Introduction](#introduction)
-2. [Prerequisites](#prerequisites)
+1. [Introduction](#Introduction)
+2. [Prerequisites](#Prerequisites)
 3. [Steps By Step Implementation](#StepsByStepImplementation)
-4. [Conclusion](#conclusion)
-5. [What's Next?](#whatsNext)
+4. [Conclusion](#Conclusion)
+5. [What's Next?](#What’sNext?)
 6. [Challenge (Optional)](#challenge)
 
 ---
