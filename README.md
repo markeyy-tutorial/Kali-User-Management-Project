@@ -20,7 +20,7 @@ Learn how to create, update, and delete users and groups for Linux distribution!
 
 ---
 
-## 🎯 Introduction {#introduction}
+## 🎯 Introduction
 Managing users and groups is a fundamental skill for anyone working with Linux systems. Whether you're a system administrator or a Linux enthusiast, understanding how to create, update, and delete users and groups manually is essential. In this guide, we’ll walk you through the process step by step.
 
 In Linux, every action is tied to a user or group. Proper user and group management ensures security, organization, and efficient system administration. This guide will teach you how to:
