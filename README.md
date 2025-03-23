@@ -14,9 +14,10 @@ Learn how to create, update, and delete users and groups for Linux distribution!
 1. [Introduction](#introduction)
 2. [Prerequisites](#Prerequisites)
 3. [Steps By Step Implementation](#StepsByStepImplementation)
-4. [Conclusion](#Conclusion)
-5. [What's Next?](#What’sNext?)
-6. [Challenge (Optional)](#challenge)
+4. [Common Issues and Troubleshooting](#CommonIssuesandTroubleshooting)
+5. [Conclusion](#Conclusion)
+6. [What's Next?](#What’sNext?)
+7. [Challenge (Optional)](#challenge)
 
 ---
 
@@ -152,7 +153,7 @@ OfficeOfPublicRelations:x:1010:charlie
 
 ---
 
-### Common Issues and Troubleshooting
+### 🛠️ Common Issues and Troubleshooting
 - **Permission Denied:**
   - Ensure that you are using **“sudo”** or have root access
 - **User or Group Already Exists:**
