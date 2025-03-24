@@ -11,7 +11,7 @@ Learn how to create, update, and delete users and groups for Linux distribution!
 ---
 
 ## 📋 Table of Contents
-1. [Introduction](#introduction)
+1. [Introduction](#Introduction)
 2. [Prerequisites](#Prerequisites)
 3. [Steps By Step Implementation](#StepsByStepImplementation)
 4. [Common Issues and Troubleshooting](#CommonIssuesandTroubleshooting)
@@ -21,6 +21,7 @@ Learn how to create, update, and delete users and groups for Linux distribution!
 
 ---
 
+<a name="Introduction"></a>
 ## 🎯 Introduction
 Managing users and groups is a fundamental skill for anyone working with Linux systems. Whether you're a system administrator or a Linux enthusiast, understanding how to create, update, and delete users and groups manually is essential. In this guide, we’ll walk you through the process step by step.
 
@@ -34,6 +35,7 @@ By the end of this guide, you’ll be able to manage users and groups confidentl
 
 ---
 
+<a name="Prerequisites"></a>
 ## 🛠️ Prerequisites
 - Kali Linux installed (or any Debian-based distribution).
 - Root or Sudo access.
