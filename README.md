@@ -187,6 +187,12 @@ Now that you’ve learned how to manually create, update, and delete users and g
 
 ---
 
-Once you’ve completed the exercise, please share your experience with me! If you’re stuck, don’t hesitate to ask for help. And don’t forget to check out my next project, where we’ll automate this entire process!
+🌟 Once you’ve completed the exercise:
+- please share your experience with me and others 👥!
+- Show some love by giving a **Star** to this repository ⭐️! 
+
+If you’re stuck, don’t hesitate to ask for help. And don’t forget to check out my next project 🧰, where we’ll automate ⚙️ this entire process!
+
+
 
 
